@@ -106,7 +106,7 @@ You need a professional, reliable, and secure environment.
 
 ### Step 1: Flash the Image 💾
 
-1. Download **`invisix.img`** from [SourceForge](https://sourceforge.net/projects/invisix/files/release1/invisix-distro.img/download).
+1. Download **`invisix-distro.img`** from [SourceForge](https://sourceforge.net/projects/invisix/files/release1/invisix-distro.img/download).
 2. Download [**Raspberry Pi Imager**](https://www.raspberrypi.com/software/).
 3. Open it and select:
    - **Device**: Raspberry Pi 4
