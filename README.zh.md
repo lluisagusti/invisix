@@ -106,11 +106,11 @@
 
 ### 步骤 1: 烧录镜像 💾
 
-1. 请先在 [SourceForge](https://sourceforge.net/projects/invisix/files/release1/invisix-distro.img/download) 里下载最新的发行版本 **`invisix.img`**.
+1. 请先在 [SourceForge](https://sourceforge.net/projects/invisix/files/release1/invisix-distro.img/download) 里下载最新的发行版本 **`invisix-distro.img`**.
 2. 下载并安装官方烧录工具: [**Raspberry Pi Imager**](https://www.raspberrypi.com/software/).
 3. 开启它并按此选择设定:
    - **Device 设备**: 树莓派 4 (Raspberry Pi 4)
-   - **OS 固件**: 拉到最低 → "Use Custom" (选择您下载好的自定义镜像文件) → 选择并载入 `invisix.img`。
+   - **OS 固件**: 拉到最低 → "Use Custom" (选择您下载好的自定义镜像文件) → 选择并载入 `invisix-distro.img`。
    - **Storage 容量载体**: 点击配置并选取对应的 储存(SD) 卡接口。
 4. 点击 **下一步 (Next)** → 然后由于固件已经修改，弹出提示框请果断点击 **"否 (NO)"** 拒绝编辑参数 → 点击**烧录 (Write)**，等待进度条完成拔出拔出电源。
 
