@@ -231,6 +231,3 @@ If Invisix secured your workflow, **help it help others**:
   Made with ❤️ in Barcelona
 </p>
 
-<p align="center">
-  <strong>Privacy is not a luxury. It's a right.</strong>
-</p>
