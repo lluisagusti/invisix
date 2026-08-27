@@ -231,6 +231,3 @@ Wenn Invisix Ihren Arbeitsablauf gesichert hat, **helfen Sie anderen**:
   Hergestellt mit ❤️ in Barcelona
 </p>
 
-<p align="center">
-  <strong>Datenschutz ist kein Luxus. Er ist ein Recht.</strong>
-</p>
