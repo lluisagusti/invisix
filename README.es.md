@@ -231,6 +231,3 @@ Si Invisix aseguró tu flujo de trabajo, **ayúdalo a ayudar a otros**:
   Hecho con ❤️ en Barcelona
 </p>
 
-<p align="center">
-  <strong>La privacidad no es un lujo. Es un derecho.</strong>
-</p>
