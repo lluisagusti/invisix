@@ -228,6 +228,4 @@ Voir [`BUILD.md`](BUILD.md) pour les instructions de construction de l'image.
   Créé avec ❤️ à Barcelone
 </p>
 
-<p align="center">
-  <strong>La vie privée n'est pas un luxe, c'est un droit.</strong>
-</p>
+
